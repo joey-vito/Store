@@ -1,0 +1,40 @@
+body {
+	background-color: #D7D6D6;
+}
+
+hr {
+	border-color: white;
+	border-width: 3px;
+}
+
+h4 {
+	margin-left: 100px;
+	color: black;
+}
+
+#shoes {
+	/*border: solid 3px black	;*/
+	border-radius: 25px;
+	display: inline-block;
+	margin-top: 30px;
+}
+
+#info {
+	font-size: 20px;
+}
+
+#container {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#store {
+	font-size: 50px;
+	margin-right: 120px;
+	font-family: cursive;
+	color: #F5F2F2;
+	margin-top: 5px;
+}
+
+
+
