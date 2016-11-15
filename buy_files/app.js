@@ -24,8 +24,6 @@ function notice(message) {
 }
 
 function myFunction() {
-    document.getElementById("price").value = document.getElementById("asic_price").value;
+    document.getElementById("asic_desc").value = document.getElementById("desc").value;
 }
-
-
     
